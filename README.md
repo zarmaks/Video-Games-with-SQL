@@ -1,1 +1,1 @@
-# Video-Games-with-SQL
+This project conducts a thorough SQL analysis of historical video game data to determine the most celebrated era in the gaming industry. It involves complex data manipulation techniques, including joining datasets, applying set theory, and performing trend analysis on critic and user ratings, as well as sales figures.
